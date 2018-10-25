@@ -1,10 +1,13 @@
 # vueweb
 
 > A Vue.js project
+> Create this web development module for daily work
+> Just change the dependencies you need in the package.json file and follow the steps below
+> PS: build/ file and src/store/ file both need to change by yourself
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
